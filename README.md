@@ -107,7 +107,7 @@ and you'll learn its more advanced capabilities over time.
 
 There is no wrong way to approach the material in this lesson. Work through some
 of it now if you can, but you can also come back to it whenever you have some
-extra time — or if you just need a break from lessons and labs. Getting some
+extra time, or if you just need a break from lessons and labs. Getting some
 additional practice using these resources (or others you find on your own) will
 give you a boost towards your goal of becoming a developer.
 
