@@ -57,25 +57,29 @@ to help you up your skills:
   course above is based on. You can download a PDF if you sign up for the
   author's newsletter.
 - Cheatsheets:
-  - Beginner friendly: [https://linuxconfig.org/linux-commands-cheat-sheet](https://linuxconfig.org/linux-commands-cheat-sheet)
-  - More comprehensive: [https://learncodethehardway.org/unix/bash_cheat_sheet.pdf](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
-  - Downloadable: [https://garywoodfine.com/linux-terminal-command-cheat-sheets](https://garywoodfine.com/linux-terminal-command-cheat-sheets/) (includes an Ubuntu-specific version)
+  - Beginner friendly:
+    [https://linuxconfig.org/linux-commands-cheat-sheet](https://linuxconfig.org/linux-commands-cheat-sheet)
+  - More comprehensive:
+    [https://learncodethehardway.org/unix/bash_cheat_sheet.pdf](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
+  - Downloadable:
+    [https://garywoodfine.com/linux-terminal-command-cheat-sheets](https://garywoodfine.com/linux-terminal-command-cheat-sheets/)
+    (includes an Ubuntu-specific version)
 - [Command Line Mystery][command-line-mystery] is a fun way to practice CLI
   commands — and solve a mystery while you're at it!
 
 **Top Tip**: Remember, the idea here is **not** to memorize scores of CLI
-commands! Instead, the goals are:
+commands! Instead, the goals are to:
 
-1. to build your comfort level with using the command line,
-2. to develop a feel for the range of tasks you can perform, and
-3. to learn how to use the resources available to you to find the command you
-   need and how to use it.
+1. Build your comfort level with using the command line,
+2. Develop a feel for the range of tasks you can perform, and
+3. Learn how to use the resources available to you to find the command you need
+   and how to use it.
 
 ## Build your Skills with Git and GitHub
 
-Git/GitHub is another invaluable tool for developers. As with using the CLI, you
-will build your skills and comfort level over time, but if you can start the
-process early, it will pay off in the long run.
+Git and GitHub are two other invaluable tools for developers. As with using the
+CLI, you will build your Git and GitHub skills and comfort level over time, but
+if you can start the process early, it will pay off in the long run.
 
 The following resources will help solidify your understanding of what Git and
 GitHub are and the needs they meet, and give you more practice with the basic
@@ -87,7 +91,7 @@ daily! — when you're working as a developer.
   with the basic Git commands and workflow
 - [Git Parable][git-parable] provides a story-based explanation of the reasoning
   behind Git features
-- [Beginner’s Guide to GitHub][beginners-guide] provides a beginner-friendly
+- [Beginner's Guide to GitHub][beginners-guide] provides a beginner-friendly
   overview of how to use GitHub
 - [Interactive Git Cheatsheet][git-cheatsheet]
 
@@ -101,15 +105,19 @@ and you'll learn its more advanced capabilities over time.
 
 Gotta write something here
 
-[physical-changes]: https://medium.com/peak-wellbeing/the-reason-for-repetition-how-repetition-helps-us-learn-10d7eea43e95
+[physical-changes]:
+  https://medium.com/peak-wellbeing/the-reason-for-repetition-how-repetition-helps-us-learn-10d7eea43e95
 [leetcode]: https://leetcode.com/
 [codewars]: https://www.codewars.com/
-[linux-commands-course]: https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/
+[linux-commands-course]:
+  https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/
 [free-code-camp]: https://www.freecodecamp.org/
 [linux-commands-handbook]: https://flaviocopes.com/page/linux-commands-handbook/
 [command-line-mystery]: https://github.com/veltman/clmystery
 [git-immersion]: https://gitimmersion.com/
 [git-parable]: http://tom.preston-werner.com/2009/05/19/the-git-parable.html
 [git-cheatsheet]: https://www.ndpsoftware.com/git-cheatsheet.html
-[beginners-guide]: https://medium.com/swlh/a-beginners-guide-to-github-e4747a93765c
-[best-code-challenge-sites]: https://programmingoverloaded.com/best-coding-challenge-websites-for-beginners/
+[beginners-guide]:
+  https://medium.com/swlh/a-beginners-guide-to-github-e4747a93765c
+[best-code-challenge-sites]:
+  https://programmingoverloaded.com/best-coding-challenge-websites-for-beginners/
