@@ -1,10 +1,12 @@
 # Additional Practice
 
+Take a moment to celebrate the fact that you've made it through the Prework —
+congratulations! You should now be in great shape to start the program!
+
 Shown below are some suggestions for additional practice if you have extra time
-after completing the Prework — or at any time while you're completing the
-program. They are based on feedback from past students about the topics and
-skills they felt they could have used more practice with beyond what is covered
-in the curriculum.
+— or at any time while you're completing the program. They are based on feedback
+from past students about the topics and skills they felt they could have used
+more practice with beyond what is covered in the curriculum.
 
 Any time you can devote to the resources and suggestions below will pay off not
 only as you continue through the curriculum, but also as you prepare to
@@ -103,7 +105,11 @@ and you'll learn its more advanced capabilities over time.
 
 ## Conclusion
 
-Gotta write something here
+There is no wrong way to approach the material in this lesson. Work through some
+of it now if you can, but you can also come back to it whenever you have some
+extra time — or if you just need a break from lessons and labs. Getting some
+additional practice using these resources (or others you find on your own) will
+give you a boost towards your goal of becoming a developer.
 
 [physical-changes]:
   https://medium.com/peak-wellbeing/the-reason-for-repetition-how-repetition-helps-us-learn-10d7eea43e95
