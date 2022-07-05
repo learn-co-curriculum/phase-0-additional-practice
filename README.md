@@ -1,7 +1,8 @@
 # Additional Practice
 
-Take a moment to celebrate the fact that you've made it through the Prework —
-congratulations! You should now be in great shape to start the program!
+Take a moment to celebrate the fact that you've made it through Software
+Engineering Prep — congratulations! You should now be in great shape to start
+the program!
 
 Shown below are some suggestions for additional practice if you have extra time
 — or at any time while you're completing the program. They are based on feedback
@@ -27,9 +28,10 @@ will make you a faster and more efficient coder.
 
 Some specific suggestions:
 
-1. Go back and review some of the JavaScript lessons and labs in the Prework.
-   Topics of particular importance include: functions, arguments and parameters,
-   control flow (conditional statements), loops/iteration, and data structures.
+1. Go back and review some of the JavaScript lessons and labs in Software
+   Engineering Prep. Topics of particular importance include: functions,
+   arguments and parameters, control flow (conditional statements),
+   loops/iteration, and data structures.
 
 2. As you're practicing a concept (or learning it for the first time!), come up
    with your own examples and code them out. Although reading through the
